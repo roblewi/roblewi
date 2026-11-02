@@ -1,6 +1,6 @@
-hello!
+hwrld,
 
-my name is robert lewison and i am currently a jr at unc ch
+robert lewison | unc chapel hill mathematics b.s. & cs b.s. / russian minor
 
-reach out to me if you need anything :)
-7049981060 // robertlewison@gmail.com
+reach out to me:
+robertlewison@gmail.com
