@@ -1,7 +1,5 @@
-hwrld,
+# Robert Lewison
 
-robert lewison | unc chapel hill mathematics b.s. & cs b.s. / russian minor
-looking to travel north
+B.S. Mathematics and B.S. Computer Science at UNC Chapel Hill, with a minor in Russian Culture. Graduating December 2026.
 
-reach out to me:
-robertlewison@gmail.com or [LinkedIn](https://linkedin.com/in/robertlewison)
+Open to roles in New York and Chicago starting in 2027. Reach me at robertlewison@gmail.com or on [LinkedIn](https://linkedin.com/in/robertlewison).
